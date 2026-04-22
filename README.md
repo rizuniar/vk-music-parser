@@ -23,7 +23,7 @@ driver.get("https://vk.com/your_audio")
 1. Склонируй репозиторий:
    ```bash
    git clone https://github.com/rizuniar/vk-music-parser.git
-   cd vk-playlist-parser
+   cd vk-music-parser
    ```
 
 2. Сделай виртаульное пространство и установи зависимости:
